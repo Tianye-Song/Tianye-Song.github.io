@@ -11,7 +11,7 @@ The title of the graph: The ISHANT'S ECONOMY RATE
 
 The first sketch of the fixed data visualization.
 
-<img src="./sketch.jpg"
+<img src="./sketches.jpg"
      alt="original data visualizaiton"
      style="float: left; margin-right: 10px;" />
      

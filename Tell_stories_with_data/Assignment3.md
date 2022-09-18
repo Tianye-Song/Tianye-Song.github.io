@@ -9,9 +9,9 @@ Source: [https://www.espncricinfo.com/story/aakash-chopra-how-ishant-sharma-got-
 The title of the graph: The ISHANT'S ECONOMY RATE
 
 **Changes I made for the first sketch:**
-* I change the type of the chart from accumulated bar chart to line chart because this is a time series data, so line chart could show the trend better.
-* I change the color of the two features. The orignal color of the two features are too similar to each other for people to tell the difference of them.
-* I change the title of the chart so it could summarize the information in the chart.
+* I changed the type of the chart from accumulated bar chart to line chart because this is a time series data, so line chart could show the trend better.
+* I changed the color of the two features. The orignal color of the two features are too similar to each other for people to tell the difference of them.
+* I changed the title of the chart so it could summarize the information in the chart.
 
 
 **The first sketch of the fixed data visualization.**
@@ -26,8 +26,8 @@ The title of the graph: The ISHANT'S ECONOMY RATE
 * People B: 1. Change the title 2. Delete the data points on the graph which are not useful
 
 **Changes I made after the suggestions:**
-* I change the title to show accurate meaning of the graph.
-* I use dual axis because of the different scales of the two features to show the trend more clearly.
+* I changed the title to show accurate meaning of the graph.
+* I used dual axis because of the different scales of the two features to show the trend more clearly.
 
 
 **The final version of the data visualization:**

@@ -1,6 +1,6 @@
 **The original data visualization**
 
-I selected this data visualizaiton because this chart couldn't show the audience the intended information correctly. It want to show the sports fan what's the relationship between the economic rate and the match number of Ishant. But the audience couldn't receive that information by just looking at the chart with accumulated number in bar chart. 
+I selected this data visualizaiton because this chart couldn't show the audience the intended information correctly. It wants to show the sports fan what's the relationship between the economic rate and the match number of Ishant. But the audience couldn't receive that information by just looking at the chart with accumulated number in bar chart. 
 
 
 <img src="./original.jpg"

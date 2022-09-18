@@ -1,4 +1,4 @@
-Here is the original data source of the data visualization.
+**Here is the original data visualization.**
 
 <img src="./original.jpg"
      alt="original data visualizaiton"
@@ -9,8 +9,8 @@ Source: [https://www.espncricinfo.com/story/aakash-chopra-how-ishant-sharma-got-
 The title of the graph: The ISHANT'S ECONOMY RATE
 
 **Changes I made for the first sketch:**
-* I change the type of the chart from accumulate bar chart to line chart because this is time series data, so line chart could show the trend better.
-* I change the color of the two features, the orignal color are too similar to each other, people could not tell the difference of them.
+* I change the type of the chart from accumulated bar chart to line chart because this is a time series data, so line chart could show the trend better.
+* I change the color of the two features. The orignal color of the two features are too similar to each other for people to tell the difference of them.
 * I change the title of the chart so it could summarize the information in the chart.
 
 
@@ -20,8 +20,8 @@ The title of the graph: The ISHANT'S ECONOMY RATE
      alt="original data visualizaiton"
      style="float: left; margin-right: 10px;" />
      
-**Suggestion from other people:**
-* People A: Use dual axis because the two features are in different scale
+**Suggestions from other people:**
+* People A: Use dual axis because the two features are in different scale.
 
 * People B: 1. Change the title 2. Delete the data points on the graph which are not useful
 
@@ -31,6 +31,9 @@ The title of the graph: The ISHANT'S ECONOMY RATE
 
 
 **The final version of the data visualization:**
+
+I utilized line chart to show the trend of how economic rate and match number change with the year. Besides, I used dual axis because these two features are in different scale. Furthermore, I put two features in one chart to compare the difference of the trend. I also changed the title to summarize the information of the chart that the trend is in opposite way before 2013 and the same way after 2013. Last but not least, I changed the color of the two features to make the comparision clearer. 
+
 
 <div class='tableauPlaceholder' id='viz1663541019311' style='position: relative'><noscript><a href='#'><img alt='Economy rate and Matches number has opposite changeing direction before 2013 and same direction after 2013 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3_16635338725130&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3_16635338725130&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3_16635338725130&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    

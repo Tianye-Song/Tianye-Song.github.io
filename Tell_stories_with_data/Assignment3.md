@@ -60,6 +60,6 @@ After the discussion in class, students of the group gave me two excellent advic
 **Data Visualization after changes according to the suggestions from class**
 
 
-<img src="./fixed.jpg"
+<img src="./fixed.png"
      alt="original data visualizaiton"
      style="float: left; margin-right: 10px;" />

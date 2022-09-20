@@ -54,7 +54,12 @@ I utilized line chart to show the trend of how economic rate and match number ch
 
 After the discussion in class, students of the group gave me two excellent advice on the chart.
 
-1. Change the color of x from blue to white.
+1. Change the background color of axis x from blue to white.
 2. Point out 2013 which is a turning point in this case.
 
-**Chart after suggestions from class**
+**Data Visualization after changes according to the suggestions from class**
+
+
+<img src="./fixed.jpg"
+     alt="original data visualizaiton"
+     style="float: left; margin-right: 10px;" />

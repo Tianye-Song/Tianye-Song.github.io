@@ -47,3 +47,14 @@ I utilized line chart to show the trend of how economic rate and match number ch
      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
      vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+
+
+
+After the discussion in class, students of the group gave me two excellent advice on the chart.
+
+1. Change the color of x from blue to white.
+2. Point out 2013 which is a turning point in this case.
+
+**Chart after suggestions from class**

@@ -1,6 +1,6 @@
 # Outline
-What is your happiest moment recently? In my final project, I will visualize the distribution of people's happy moment in differnet categories and
-the distribution of words from subject's, verb's, and object's perspective according to the survey data. 
+What is your happiest moment in the past 24h? In my final project, I will visualize the distribution of people's happy moment in differnet categories and
+the distribution of words from subject's, verb's, and object's perspectives according to the survey data. 
 
 # Sketches
 1. The happy moment category distribution by pie chart.

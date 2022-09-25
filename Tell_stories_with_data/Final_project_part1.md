@@ -2,6 +2,14 @@
 What is your happiest moment in the past 24h? In my final project, I will visualize the distribution of people's happy moment in differnet categories and
 the distribution of words from subject's, verb's, and object's perspectives according to the survey data. 
 
+**Structure**
+1. Ask the audience their happies moment in the past 24h. 
+2. Show audience the happy moment category distribution accoridng to the survey data.
+3. Show the happy moment subject distribution and for the top 1 subject what does the distribution of different categories look like. 
+4. Show the happy moment verb distribution and for the top 1 subject what does the distribution of different categories look like. 
+5. Show the happy moment subject distribution and for the top 1 object what does the distribution of different categories look like.
+
+
 # Sketches
 1. The happy moment category distribution by pie chart.
 ![alt text](./final1.png)

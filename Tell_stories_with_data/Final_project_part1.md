@@ -1,6 +1,6 @@
 # Outline
-what is your happiest moment recently? Visualize distribution of people's happy moment in differnet categories and
-What kinds of subject, verb, and object do these happy moments involved according to the data. 
+what is your happiest moment recently? Visualize the distribution of people's happy moment in differnet categories and
+the distribution of words from subject's, verb's, and object's perspective according to the survey data. 
 
 # Sketches
 1. The happy moment category distribution by pie chart

@@ -22,4 +22,5 @@ the distribution of words from subject's, verb's, and object's perspective accor
 [HappyDB](https://github.com/megagonlabs/HappyDB)
 
 # Medium
+I will utilize shorthand for the presentaton, Tableau to prepare charts with data and python to analyze data for the final project.
 [shorthand](https://shorthand.com/)

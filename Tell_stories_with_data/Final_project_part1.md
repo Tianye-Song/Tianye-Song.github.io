@@ -7,7 +7,7 @@ the distribution of words from subject's, verb's, and object's perspectives acco
 2. Show the audience the happy moment category distribution accoridng to the survey data.
 3. Show the happy moment subject distribution and the distribution of different categories for the top 1 subject. 
 4. Show the happy moment verb distribution and the distribution of different categories for the top 1 verb. 
-5. Show the happy moment subject distribution and the distribution of different categories for the top 1 object. 
+5. Show the happy moment object distribution and the distribution of different categories for the top 1 object. 
 
 
 # Sketches

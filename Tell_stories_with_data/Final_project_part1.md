@@ -34,5 +34,7 @@ Introduction of the data: HappyDB is a corpus of 100,000 crowd-sourced happy mom
 How to use the data: I will clone the repository from github to download the data to local path and analyze the data with python.
 
 # Medium
-I will utilize shorthand for the presentaton, Tableau to prepare charts with data and python to analyze data for the final project.
 [shorthand](https://shorthand.com/)
+
+I will utilize shorthand for the presentaton, Tableau to prepare charts with data and python to analyze data for the final project.
+

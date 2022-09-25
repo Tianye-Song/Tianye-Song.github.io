@@ -4,10 +4,10 @@ the distribution of words from subject's, verb's, and object's perspectives acco
 
 **Structure**
 1. Ask the audience their happiest moment in the past 24h. 
-2. Show audience the happy moment category distribution accoridng to the survey data.
-3. Show the happy moment subject distribution and for the top 1 subject what does the distribution of different categories look like. 
-4. Show the happy moment verb distribution and for the top 1 subject what does the distribution of different categories look like. 
-5. Show the happy moment subject distribution and for the top 1 object what does the distribution of different categories look like.
+2. Show the audience the happy moment category distribution accoridng to the survey data.
+3. Show the happy moment subject distribution and the distribution of different categories for the top 1 subject. 
+4. Show the happy moment verb distribution and the distribution of different categories for the top 1 verb. 
+5. Show the happy moment subject distribution and the distribution of different categories for the top 1 object. 
 
 
 # Sketches

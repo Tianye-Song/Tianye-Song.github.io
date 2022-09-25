@@ -20,6 +20,7 @@ the distribution of words from subject's, verb's, and object's perspective accor
 
 # Data
 [HappyDB](https://github.com/megagonlabs/HappyDB)
+I will clone the repository from github to download the data to local path and analyze the data with python.
 
 # Medium
 I will utilize shorthand for the presentaton, Tableau to prepare charts with data and python to analyze data for the final project.

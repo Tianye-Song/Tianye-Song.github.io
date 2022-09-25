@@ -28,8 +28,10 @@ the distribution of words from subject's, verb's, and object's perspectives acco
 
 # Data
 [HappyDB](https://github.com/megagonlabs/HappyDB)
-HappyDB is a corpus of 100,000 crowd-sourced happy moments. More specifically, the collaboration between the University of Tokyo, MIT, and Recruit Institute of Technology asked participants on Mechanical Turk to list 10 happy moments. This generated a corpus of 100,000 happy moments called HappyDB.
-I will clone the repository from github to download the data to local path and analyze the data with python.
+
+Introduction of the data: HappyDB is a corpus of 100,000 crowd-sourced happy moments. More specifically, the collaboration between the University of Tokyo, MIT, and Recruit Institute of Technology asked participants on Mechanical Turk to list 10 happy moments. This generated a corpus of 100,000 happy moments called HappyDB.
+
+How to use the data: I will clone the repository from github to download the data to local path and analyze the data with python.
 
 # Medium
 I will utilize shorthand for the presentaton, Tableau to prepare charts with data and python to analyze data for the final project.

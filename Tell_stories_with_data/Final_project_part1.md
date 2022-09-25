@@ -3,19 +3,19 @@ What is your happiest moment recently? In my final project, I will visualize the
 the distribution of words from subject's, verb's, and object's perspective according to the survey data. 
 
 # Sketches
-1. The happy moment category distribution by pie chart
+1. The happy moment category distribution by pie chart.
 ![alt text](./final1.png)
-2. The happy moment subject distribution by bar chart
+2. The happy moment subject distribution by bar chart.
 ![alt text](./final2.png)
-3. For the top 3 subject, distribution of categories by stacked bar chart
+3. For the top 1 subject, distribution of different categories by stacked bar chart.
 ![alt text](./final3.png)
-4. The happy moment verb distribution by bar chart
+4. The happy moment verb distribution by bar chart.
 ![alt text](./final4.png)
-5. For the top 3 verb, distribution of categories by stacked bar chart
+5. For the top 1 verb, distribution of different categories by stacked bar chart.
 ![alt text](./final5.png)
-6. The happy moment object distribution by bar chart
+6. The happy moment object distribution by bar chart.
 ![alt text](./final6.png)
-7. For the top 3 object, distribution of categories by stacked bar chart
+7. For the top 1 object, distribution of different categories by stacked bar chart.
 ![alt text](./final7.png)
 
 # Data

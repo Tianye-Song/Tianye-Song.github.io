@@ -1,8 +1,3 @@
-<iframe width="100%" height="800" src="./final_project.pdf">
- 
- 
-<a href="https://app.shorthand.com/organisations/JSrgFWI7zn/stories/taYpidi7wD">Shorthand Link</a>
-
 # User Research 
 
 * The target audience I hope to reach with your story; Contemporary people that feel hard to find happiness recently or people who are intested about where happiness lies.
@@ -18,3 +13,8 @@
 * Changes you plan on implementing to your visualizations next week to address the issues identified:
   * Change to broader category for the subject part according the suggestion
   * Follow the Setup, Confilict, Resolution framework
+
+<iframe width="100%" height="800" src="./final_project.pdf">
+ 
+ 
+<a href="https://app.shorthand.com/organisations/JSrgFWI7zn/stories/taYpidi7wD">Shorthand Link</a>

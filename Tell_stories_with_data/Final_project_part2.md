@@ -14,7 +14,8 @@
   * Change to broader category for the subject part according the suggestion
   * Follow the Setup, Confilict, Resolution framework
 
-<iframe width="100%" height="800" src="./final_project.pdf">
+ 
+<object data="f./final_project.pdf" type="application/pdf" width="100%" height="100%"></object>
  
  
 <a href="https://app.shorthand.com/organisations/JSrgFWI7zn/stories/taYpidi7wD">Shorthand Link</a>

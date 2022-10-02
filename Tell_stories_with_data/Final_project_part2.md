@@ -15,7 +15,13 @@
   * Follow the Setup, Confilict, Resolution framework
 
  
-<object data="f./final_project.pdf" type="application/pdf" width="100%" height="100%"></object>
+<object data="./final_project.pdf" type="application/pdf" width="100%" height="100%"></object>
  
  
 <a href="https://app.shorthand.com/organisations/JSrgFWI7zn/stories/taYpidi7wD">Shorthand Link</a>
+
+<!-- <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object> -->

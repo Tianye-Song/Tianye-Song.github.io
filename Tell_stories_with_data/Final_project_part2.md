@@ -2,7 +2,7 @@
 # Wireframes and storyboards
 <a href="https://app.shorthand.com/organisations/JSrgFWI7zn/stories/taYpidi7wD">Shorthand Link</a>
 
-<object data="./final_project.pdf" type="application/pdf" width="100%" height="100%">
+<object data="./final_project.pdf" type="application/pdf" width="100%" height="200%">
     <embed src="./final_project.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://app.shorthand.com/organisations/JSrgFWI7zn/stories/taYpidi7wD">Download PDF</a>.</p>
     </embed>

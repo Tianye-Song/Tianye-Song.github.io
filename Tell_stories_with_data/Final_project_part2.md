@@ -1,6 +1,5 @@
 
-
-
+# Wireframes and storyboards
 <a href="https://app.shorthand.com/organisations/JSrgFWI7zn/stories/taYpidi7wD">Shorthand Link</a>
 
 <object data="./final_project.pdf" type="application/pdf" width="100%" height="100%">
@@ -11,7 +10,7 @@
 
 
 
-# User Research 
+# User Research and interviews
 
 * The target audience I hope to reach with your story; Contemporary people that feel hard to find happiness recently or people who are intested about where happiness lies.
 * Approach to identifying representative individuals to interview: People who cares about and pay attention to the details of life

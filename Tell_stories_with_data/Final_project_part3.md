@@ -2,7 +2,8 @@
 For the final project, my topic is "What's the secret of happiness", I chose this topic because nowadays people are getting less happier and people around me including me feel stressed these days. 
 Therefore, it gave me the idea to explore if there is any way to make people feel happy. My targeted audience for this project is anyone who want to cheer themselves up or anyone who is interested in happiness. 
 
-# Designing process
+# Summary
+## Designing process
 
 Based on the interview results, I narrowed the contents and the focus of the storyline. It seems like people are more interested in what things make the other people feel happy in their daily life, what categories these examples fall into and what subjects, verbs and objects appears the most of times in the database collected from the survey results. 
 
@@ -11,12 +12,12 @@ activities and the action is about according to the analysis of the [HappyDB](ht
 
 
 
-# Graph Design
+## Graph Design
 For most of the graphs used in the presentation, I used [Flourish](https://flourish.studio/) to design them.
 For the final graph showed on the presentation, I was inspired by the analysis of [What Makes People the Most Happy](https://flowingdata.com/2018/06/21/what-makes-people-the-most-happy/) by Nathan Yau. Based on one of the graphs in this document, 
 I also added the category distribution for different objects to present example senteneces from the database. I first used Flourish to draw the stacked bar distribution graph based on the data analysis of HappyDB with Python. After that, I used [Xmind](https://xmind.app/) to design the Mind graph to show the example sentences from the database which  were divided into three parts, subjects, verbs and objects. I also put their category distribution calculated from the data under the word. 
 
-# The Final Work
+## The Final Work
 
 I used shorthand as the tool to present my final work. [How to be Happier](https://carnegiemellon.shorthandstories.com/how-to-be-happier/index.html)
 

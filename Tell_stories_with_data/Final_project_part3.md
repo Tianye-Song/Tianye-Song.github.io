@@ -20,7 +20,7 @@ I also added the category distribution for different objects to present example 
 
 I used shorthand as the tool to present my final work. [How to be Happier](https://carnegiemellon.shorthandstories.com/how-to-be-happier/index.html)
 
-# References and Sources
+# References and Links
 [HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments](https://megagon.ai/happydb-a-happiness-database-of-100000-happy-moments/)
 
 [HappyDB Data Source Github Page](https://github.com/megagonlabs/HappyDB)

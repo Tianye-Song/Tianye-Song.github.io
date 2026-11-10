@@ -279,3 +279,7 @@ p { margin: 0 0 1em; }
 .article.paper strong { color: var(--ink); }
 .article .tags { margin-top: 0; margin-bottom: 4px; }
 .now-card p a { color: var(--moss); font-weight: 600; }
+
+.races { list-style: none; padding: 0; margin: 10px 0 0; display: grid; gap: 8px; }
+.races li { display: grid; grid-template-columns: 46px 1fr; gap: 8px; font-size: .9rem; color: color-mix(in srgb, var(--bg) 88%, transparent); line-height: 1.45; }
+.races span { font-family: "JetBrains Mono", monospace; font-size: .78rem; padding-top: 2px; opacity: .8; }

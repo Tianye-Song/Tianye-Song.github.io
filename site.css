@@ -203,7 +203,7 @@ p { margin: 0 0 1em; }
 .article h3 { font-size: clamp(1.35rem, 2.6vw, 1.75rem); margin-bottom: 12px; }
 .article p { color: var(--muted); max-width: 52em; }
 .article .more { color: var(--clay); }
-.talks { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 18px; }
+.talks { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 18px; }
 .talk { display: flex; gap: 14px; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; }
 .talk-year { font-family: "JetBrains Mono", monospace; font-size: .78rem; background: var(--clay-soft); color: var(--clay); padding: 3px 8px; border-radius: 6px; }
 .talk strong { display: block; font-size: .95rem; }
@@ -283,3 +283,6 @@ p { margin: 0 0 1em; }
 .races { list-style: none; padding: 0; margin: 10px 0 0; display: grid; gap: 8px; }
 .races li { display: grid; grid-template-columns: 46px 1fr; gap: 8px; font-size: .9rem; color: color-mix(in srgb, var(--bg) 88%, transparent); line-height: 1.45; }
 .races span { font-family: "JetBrains Mono", monospace; font-size: .78rem; padding-top: 2px; opacity: .8; }
+
+.fact p a, .talk a { color: var(--moss); font-weight: 600; text-decoration: none; }
+.fact p a:hover, .talk a:hover { text-decoration: underline; }

@@ -272,3 +272,10 @@ p { margin: 0 0 1em; }
 @media (max-width: 960px) { .facts-grid { grid-template-columns: repeat(2, 1fr); } .fact.big { grid-column: span 2; grid-row: auto; min-height: 260px; } }
 @media (max-width: 560px) { .facts-grid { grid-template-columns: 1fr; } .fact.big { grid-column: auto; grid-row: auto; } }
 @media (max-width: 860px) { .hero-photo { justify-self: center; } }
+
+.article + .article { margin-top: 16px; }
+.article.paper { border-left-color: var(--sky); }
+.article.paper .article-meta, .article.paper .more { color: var(--sky); }
+.article.paper strong { color: var(--ink); }
+.article .tags { margin-top: 0; margin-bottom: 4px; }
+.now-card p a { color: var(--moss); font-weight: 600; }

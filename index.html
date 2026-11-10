@@ -12,7 +12,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="site.css?v=3">
+  <link rel="stylesheet" href="site.css?v=4">
 </head>
 <body>
 
@@ -25,7 +25,7 @@
       <a href="#now">Now</a>
       <a href="#experience">Experience</a>
       <a href="#projects">Projects</a>
-      <a href="#writing">Writing</a>
+      <a href="#writing">Research</a>
       <a href="#about">About</a>
       <a href="#life">Life</a>
     </nav>
@@ -141,9 +141,9 @@
       </article>
 
       <article class="now-card reveal">
-        <span class="kicker t-society">📚 Learning</span>
-        <h3>AI Agents at CMU</h3>
-        <p>Studying AI agents in CMU's AI Agents course and mapping the ideas back onto the production systems I've already built.</p>
+        <span class="kicker t-society">📄 Research</span>
+        <h3>Long-term memory for AI agents</h3>
+        <p>I've published <a href="#writing">two papers</a> on agent memory. One covers how agents decide what to remember (EGMW). The other covers how they store and recall it with graph and vector memory (MemWeave). I'm also taking CMU's AI Agents course.</p>
       </article>
 
       <article class="now-card reveal">
@@ -288,9 +288,30 @@
   <!-- WRITING -->
   <section id="writing" class="wrap section">
     <div class="section-head reveal">
-      <span class="eyebrow">✍️ Writing &amp; Talks</span>
-      <h2>Thinking out loud</h2>
+      <span class="eyebrow">✍️ Research, Writing &amp; Talks</span>
+      <h2>Research &amp; thinking out loud</h2>
     </div>
+
+    <a class="article paper reveal" href="https://www.researchgate.net/publication/406632867_Evidence-Gated_Memory_Writing_for_Personalized_Large_Language_Model_Agents" target="_blank" rel="noopener">
+      <div class="article-meta"><span>📄 Publication</span><span>2026</span></div>
+      <h3>Evidence-Gated Memory Writing for Personalized Large Language Model Agents</h3>
+      <p>Personalized agents often write every detail to long-term memory, which pollutes it over time. This paper proposes the
+        <strong>Evidence-Gated Memory Writer (EGMW)</strong>, a gate that runs before anything is saved. It scores each candidate memory on
+        long-term usefulness, consistency with what the agent already remembers, and whether there is enough evidence. Only
+        well-supported memories are kept. The paper compares EGMW with four memory-writing strategies.</p>
+      <div class="tags"><span>LLM Agents</span><span>Memory</span><span>Personalization</span></div>
+      <span class="more">Read the paper ↗</span>
+    </a>
+
+    <a class="article paper reveal" href="https://www.researchgate.net/publication/405187545_MemWeave_An_Adaptive_Framework_for_Long-Term_Agent_Knowledge_Management_via_Unified_Graph_and_Vector_Memory" target="_blank" rel="noopener">
+      <div class="article-meta"><span>📄 Publication</span><span>2026</span></div>
+      <h3>MemWeave: An Adaptive Framework for Long-Term Agent Knowledge Management via Unified Graph and Vector Memory</h3>
+      <p>Long-running agents need two kinds of recall: fuzzy semantic similarity and explicit relationships between facts.
+        <strong>MemWeave</strong> keeps a semantic vector memory and a relational graph memory side by side. An adaptive
+        <strong>Memory Router</strong> sends each query to vector retrieval, graph traversal or a hybrid of both.</p>
+      <div class="tags"><span>LLM Agents</span><span>Knowledge Graphs</span><span>RAG</span></div>
+      <span class="more">Read the paper ↗</span>
+    </a>
 
     <a class="article reveal" href="https://tianye-song.medium.com/ai-agents-are-starting-to-look-a-lot-like-software-systems-be6616413cd0" target="_blank" rel="noopener">
       <div class="article-meta"><span>Medium</span><span>Oct 2026</span></div>
